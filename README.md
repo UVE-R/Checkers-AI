@@ -1,6 +1,6 @@
 # Checkers-AI
 
-<img src="src/board.png">
+<img src="src/board.png" height = "800">
 
 This repo contains :
 - A basic 2 player checkers game
